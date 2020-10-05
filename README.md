@@ -4,7 +4,7 @@
 
 ⚡️ I'm ok with JavaScript and I write about it on my blog: https://bhagat.me/blog
 
-🤝 I would love to collaborate on projects and contribute more to Open Source projects.
+🤝 I would love to collaborate on projects and contribute more to Open Source.
 
 
 ### Connect with me:
