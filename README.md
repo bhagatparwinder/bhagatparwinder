@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Parwinder Bhagat, a Software Architect based out of Chicago 🇺🇸.
 
-🏗 I currently work for CVS Health and I absolutely enjoy everything I do there!
+🏗 I currently build large scale software architecture and systems to support it!
 
 ⚡️ I'm ok with JavaScript and I write about it on my blog: https://bhagat.me/blog
 
